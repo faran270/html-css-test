@@ -1,0 +1,27 @@
+
+.footer{
+
+    
+    margin-top: -16px;
+    height: 150px;
+    
+    padding: 50px ;
+    
+}
+.bye{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+}
+.icons{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icons img{
+    padding-left: 10px;
+    height: 40px;
+}

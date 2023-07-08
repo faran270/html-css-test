@@ -1,0 +1,30 @@
+
+.section-4{
+    margin-top: -16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+    background-color: rgb(218, 189, 245);
+}
+.aboutme{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 130px;
+    text-align: right;
+    padding-right: 10px;
+    
+}
+.myinfo{ 
+    padding-left: 50px;
+    padding-top: 100px;
+    line-height: 22px;
+}
+.btn-4{
+
+    font-size: 15px;
+    padding: 15px 25px;
+    margin-top: 30px;
+    border: none;
+    background-color: rgb(255, 229, 112);
+}
